@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="51.762">
+    <testcase classname="Verify the login page functionality of Automation Practise URL" name="Verify user should be able to login successfully" time="33.352">
+        <system-out><![CDATA[Given Open automation Practise website......................................passed
+And click on signin button..................................................passed
+When enter email address "test001122@gmail.com"  && password "pass@12" in text box.passed
+And click on sign in Button.................................................passed
+Then Verify the user logged in successfully or not..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Verify the login page functionality of Automation Practise URL" name="Verify user should be able to login successfully 2" time="7.043">
+        <system-out><![CDATA[Given Open automation Practise website......................................passed
+And click on signin button..................................................passed
+When enter email address "test1@gmail.com"  && password "pass@123" in text box.passed
+And click on sign in Button.................................................passed
+Then Verify the user logged in successfully or not..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Verify the login page functionality of Automation Practise URL" name="Verify user should be able to login successfully 3" time="10.988">
+        <system-out><![CDATA[Given Open automation Practise website......................................passed
+And click on signin button..................................................passed
+When enter email address "test001122@gmail.com"  && password "pass@123" in text box.passed
+And click on sign in Button.................................................passed
+Then Verify the user logged in successfully or not..........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
